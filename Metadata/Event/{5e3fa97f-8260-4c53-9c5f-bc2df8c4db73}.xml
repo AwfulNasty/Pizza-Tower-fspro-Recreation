@@ -114,6 +114,12 @@
 		<property name="decayTime">
 			<value>3000</value>
 		</property>
+		<property name="lowShelfFrequency">
+			<value>240</value>
+		</property>
+		<property name="wetLevel">
+			<value>6.5</value>
+		</property>
 	</object>
 	<object class="MixerBusFader" id="{67acfdd0-0c59-4319-b0e0-f6b235fa68df}" />
 	<object class="ProxyEffect" id="{b596624b-7bf7-4327-b4ee-49a582345f9d}">
