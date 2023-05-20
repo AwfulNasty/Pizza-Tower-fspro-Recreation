@@ -185,6 +185,9 @@
 		<property name="timelockedOffset">
 			<value>0.0625</value>
 		</property>
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{3b059505-6903-408e-a455-f907f6986190}</destination>
 		</relationship>
@@ -208,6 +211,9 @@
 		</property>
 		<property name="length">
 			<value>160</value>
+		</property>
+		<property name="volume">
+			<value>-2</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{06541ca1-7b40-46cc-8230-8ed3aa729036}</destination>
@@ -472,7 +478,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximum">
-			<value>0.94999998807907104</value>
+			<value>0</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{140968ee-ab6a-4b87-82d1-f2158c1d87f7}</destination>
@@ -494,7 +500,7 @@
 			<value>0</value>
 		</property>
 		<property name="maximum">
-			<value>0.94999998807907104</value>
+			<value>0</value>
 		</property>
 		<property name="isInverted">
 			<value>true</value>
