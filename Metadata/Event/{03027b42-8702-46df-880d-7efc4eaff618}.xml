@@ -53,14 +53,14 @@
 			<destination>{7c5da250-2e9a-457a-bed8-e415d450b206}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{c46ef0bb-4b4e-4168-8ede-ecfed42b448a}</destination>
+			<destination>{1aa1db3b-f090-4e19-ab68-bd8089cb2ecf}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{c27c52b9-7fcb-40be-8a06-a4e89eb0d560}" />
 	<object class="MarkerTrack" id="{138827a9-f4f3-4256-9125-4d05ea44c099}" />
 	<object class="GroupTrack" id="{0624a23b-b291-4288-8925-838991c74d12}">
 		<relationship name="modules">
-			<destination>{1cc15987-ce00-48a7-8a53-04d5a690f5f8}</destination>
+			<destination>{afe0ecf6-1baf-48f3-a7c1-94ee4b2d4df0}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{8ad4e71d-81c7-43e5-98f8-50474024eee9}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{2dcdbef9-2145-4de8-917d-404355987dd8}">
 		<relationship name="modules">
-			<destination>{1cc15987-ce00-48a7-8a53-04d5a690f5f8}</destination>
+			<destination>{afe0ecf6-1baf-48f3-a7c1-94ee4b2d4df0}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{b49ec269-1c89-4468-ad2d-718a729f32c7}">
@@ -91,15 +91,18 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{7c5da250-2e9a-457a-bed8-e415d450b206}" />
-	<object class="SingleSound" id="{1cc15987-ce00-48a7-8a53-04d5a690f5f8}">
+	<object class="SingleSound" id="{afe0ecf6-1baf-48f3-a7c1-94ee4b2d4df0}">
 		<property name="length">
-			<value>0.26534595159903018</value>
+			<value>0.25</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>0.01039100985221675</value>
+			<value>0.12050584000575003</value>
+		</property>
+		<property name="volume">
+			<value>-3</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{1a8fe015-f620-4dbd-81b1-c8211e51fff8}</destination>
+			<destination>{d2ee9fc6-1ffa-48d4-ad37-14fb3f30bc19}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{8ad4e71d-81c7-43e5-98f8-50474024eee9}">

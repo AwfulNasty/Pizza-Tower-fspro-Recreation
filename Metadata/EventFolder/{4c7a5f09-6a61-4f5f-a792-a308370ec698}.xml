@@ -5,7 +5,7 @@
 			<value>pipe</value>
 		</property>
 		<relationship name="folder">
-			<destination>{e72f9049-f560-401c-9d01-88ad5050252f}</destination>
+			<destination>{d87cbb7f-7623-41c6-ad34-21eaed445dde}</destination>
 		</relationship>
 	</object>
 </objects>
